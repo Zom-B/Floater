@@ -1,0 +1,12 @@
+syntax: regexp
+
+^.idea/
+^bin/
+^out/
+^\.classpath$
+^\.project$
+^.*\.iml
+^.*\.jar
+^.*\.orig
+^.*\.tc
+^.*\.zip
